@@ -2,4 +2,3 @@ New line.
 Another line.
 
 Hello, Git!
-add
